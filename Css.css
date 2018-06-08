@@ -2,28 +2,29 @@ body
 {
    background-color: darkgoldenrod;
 }
-.HeaderLeft
+.text1
 {
    float: left;
    width: 20%;
    height: 20%;
-   text-align: justify
+   text-align: justify;
+   
 }
-.HeaderRight
+.text2
 {
    float: right;
    width: 80%;
    height: 20%;
   
 }
-.Header1Left
+.text3
 {
    float: left;
    width: 20%;
    height: 20%;
    text-align: justify
 }
-.Header1Right
+.text4
 {
    float: right;
    width: 80%;
