@@ -1,0 +1,100 @@
+body
+{
+   background-color: darkgoldenrod;
+}
+.HeaderLeft
+{
+   float: left;
+   width: 20%;
+   height: 20%;
+   text-align: justify
+}
+.HeaderRight
+{
+   float: right;
+   width: 80%;
+   height: 20%;
+  
+}
+.Header1Left
+{
+   float: left;
+   width: 20%;
+   height: 20%;
+   text-align: justify
+}
+.Header1Right
+{
+   float: right;
+   width: 80%;
+   height: 20%;
+}
+.GambarKiri
+{
+   float: left;
+   width: 35%;
+   height: 120% ;
+}
+.JudulKanan
+{
+   float: right;
+   width: 65%;
+   height: 65%;
+}
+.gbr
+{
+   width: 100%;
+   height: 100%;
+}
+.Isikiri
+{
+   float: right;
+   width: 65%;
+   height: 75%;
+}
+.Content1
+{
+   display: grid;
+   grid-template-columns: 40% 65%;
+   grid-template-rows: 160px 320px;
+   text-align: justify
+}
+.Content1 div
+{
+   padding: 30px;
+}
+.Content2
+{
+   display: grid;
+   grid-template-rows: 140px 140px;
+   text-align: justify
+}
+.Content2 div
+{
+   padding: 30px;
+}
+.gambar2
+{
+   float: left;
+}
+/*
+.Content3
+{
+   display: grid;
+   grid-template-columns: 50% 50%;
+} */
+/* .Content4
+{
+   display: grid;
+   grid-template-rows: 100px 100px;
+  
+} */
+.isi4
+{
+   height: 100px;
+}
+.gbr1
+{
+   width:190px;
+   height: 200px;
+}
